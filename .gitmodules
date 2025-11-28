@@ -1,3 +1,6 @@
 [submodule "BLUEWAY"]
 	path = BLUEWAY
 	url = https://github.com/osulg/BlueWay_12_Project.git
+[submodule "Clouduler"]
+	path = Clouduler
+	url = https://github.com/osulg/Clouduler.git
