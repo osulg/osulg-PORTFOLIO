@@ -1,0 +1,3 @@
+[submodule "BLUEWAY"]
+	path = BLUEWAY
+	url = https://github.com/osulg/BlueWay_12_Project.git
