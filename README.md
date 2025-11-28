@@ -20,7 +20,7 @@
 > Language : C++, Qt  
 > Qt 기반 게임 로직 + GUI 구현  
 
-👉 (추가 예정)
+👉 [Puyopuyo & Tetris](./Puyopuyo&Tetris)
 
 <br/>
 
@@ -30,6 +30,7 @@
 > Language : Arduino  
 > RTC(DS1307) 모듈 기반 시간 측정 & 알람 기능 구현  
 
+👉 [RTC(Arduino)](./RTC)
 <br/>
 
 ## 4. Proxy Server
@@ -38,6 +39,7 @@
 > Language : C (Linux, Ubuntu)  
 > 서버 구현, 캐싱 로직, 다중 요청 처리  
 
+👉 [Proxy Server](./Proxy_Server)
 <br/>
 
 ## 5. AI 해커톤
@@ -46,6 +48,7 @@
 > 개발기간 : 2025.08.01 ~ 08.31  
 > 역할 : pandas/NumPy 기반 시계열 데이터 분석  
 
+👉 [2025 AI Hackathon](./2025 AI Hackathon)
 <br/>
 
 ## 6. PCA
@@ -54,6 +57,7 @@
 > Language : Python  
 > PCA 구현 + 복원 + 이진 분류 + 혼돈행렬  
 
+👉 [PCA(인공지능)](./PCA)
 <br/>
 
 ## 7. ACF / PACF
@@ -62,12 +66,15 @@
 > Language : Python  
 > MA(2) & AR(2) 모델링 + ACF/PACF 분석 + 실데이터 적용  
 
+👉 [ACF & PACF(인공지능)](./ACF&PACF)
 <br/>
 
 ## 8. Clouduler
 > 중요도/난이도 기반 학습 우선순위 추천 앱  
 > 개발기간 : 2023.10.31 ~ 11.27  
-> Language : Kotlin (Android Studio)  
+> Language : Kotlin (Android Studio)
+
+👉 [Clouduler Project](https://github.com/osulg/Clouduler.git)
 
 <br/>
 
